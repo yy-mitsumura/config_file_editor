@@ -19,7 +19,7 @@
 - 自動
     - `Jw_win.jwf`に変更があるときにバックアップ(変更直前の状態をバックアップ)
     - バックアップ先: `backup\auto\`
-### JWC_TEMP.TXT
+## JWC_TEMP.TXT
 - **本ソフトによる自動生成で作られる訳ではない** が、記述する。
 - `jw_win.exe`から外部変形として`config_file_editor.bat`を実行すると、生成される。
 

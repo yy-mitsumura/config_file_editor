@@ -30,4 +30,4 @@ config_file_editor.py自身を登録するためだけの外部変形ファイ�
 - 外部変形の登録の基本については`Jw_win`本体の同梱サンプルや各種解説ウェブページ、または拙ページを参照 [外部変形をショートカット登録するやり方のメモ](https://github.com/yy-mitsumura/yy-mitsumura.github.io/blob/main/gaihen_syotoka.md)
 
 ## リンク
-本家様: [jw_cad](https://www.jwcad.net/index.htm)
+jw_cad本家様: [jw_cad](https://www.jwcad.net/index.htm)
